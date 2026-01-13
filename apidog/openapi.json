@@ -302,7 +302,7 @@
     },
     "/pet/{petId}": {
       "get": {
-        "summary": "Find pet by ID.",
+        "summary": "Find Pets by ID.",
         "deprecated": false,
         "description": "Returns a single pet.",
         "operationId": "getPetById",
